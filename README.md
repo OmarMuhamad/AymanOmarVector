@@ -10,3 +10,4 @@ It has some features you can use: -
 4 - iterators
 5 - utilizing functions
 6 - checking the equality of two vectors and more
+ 
